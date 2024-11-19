@@ -1,0 +1,72 @@
+[
+    {
+        "id": "2a76b5d2-4bfc-4d78-a1f2-bf1d451e9c10",
+        "title": "Write Project Report",
+        "description": "Draft the final project report for submission.",
+        "due_date": "2024-11-25",
+        "status": "pending"
+    },
+    {
+        "id": "3746e8e1-725d-4cb9-9a10-128ad0f0b893",
+        "title": "Team Meeting",
+        "description": "Attend the team meeting to discuss project milestones.",
+        "due_date": "2024-11-26",
+        "status": "in progress"
+    },
+    {
+        "id": "4d89f0b2-7c4f-455d-8e89-2b14a875a810",
+        "title": "Code Review",
+        "description": "Review the code changes submitted by the development team.",
+        "due_date": "2024-11-27",
+        "status": "pending"
+    },
+    {
+        "id": "7e1a56c3-a1f5-4930-81b0-bc43ef8f2d01",
+        "title": "Client Feedback",
+        "description": "Incorporate feedback received from the client into the design document.",
+        "due_date": "2024-11-28",
+        "status": "pending"
+    },
+    {
+        "id": "8b3c2d49-7f6e-4fba-b41d-7b1f3e50c4aa",
+        "title": "Database Backup",
+        "description": "Perform a backup of the production database.",
+        "due_date": "2024-11-29",
+        "status": "pending"
+    },
+    {
+        "id": "9b5a3e12-dbf7-478a-9123-d9f2cfc9e743",
+        "title": "Testing New Features",
+        "description": "Test the newly developed features on the staging environment.",
+        "due_date": "2024-11-30",
+        "status": "in progress"
+    },
+    {
+        "id": "ab2d67c4-f4a3-4c8b-b90e-4b3d9e17a2c4",
+        "title": "Prepare Presentation",
+        "description": "Create a presentation for the upcoming client meeting.",
+        "due_date": "2024-12-01",
+        "status": "pending"
+    },
+    {
+        "id": "bc4f13d7-5e8f-4958-b567-6f9e0b2b8c61",
+        "title": "Update Documentation",
+        "description": "Update the API documentation with recent changes.",
+        "due_date": "2024-12-02",
+        "status": "in progress"
+    },
+    {
+        "id": "cd5a97e8-6b1c-4d4f-9a74-ae2f0d3b9b72",
+        "title": "Deploy Application",
+        "description": "Deploy the latest version of the application to the production server.",
+        "due_date": "2024-12-03",
+        "status": "pending"
+    },
+    {
+        "id": "de6f24a9-7e2b-45c1-a8c5-bf5e0d9c6d34",
+        "title": "Organize Workshop",
+        "description": "Plan and organize a technical workshop for the team.",
+        "due_date": "2024-12-04",
+        "status": "pending"
+    }
+]
